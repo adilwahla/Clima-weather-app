@@ -2,8 +2,6 @@
 weather app that gives the weather of places round the globe you entered with suggestions 
 # Clima
 
-![Screenshot from 2022-10-03 15-17-44](https://user-images.githubusercontent.com/95691442/193549306-effb9a87-5231-4da6-bfa8-23c453da6858.png)
-
 ## Our Goal
 
 It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Cocoapods and open source libraries. These will power your apps to do incredible things without having to spend months coding up the functionality. Additionally, we’ll learn how to call Application Programming Interfaces (APIs) to grab data from websites. If you’re dreaming of making that Twitter-powered stock trading app then you’re about to get a lot closer to your goal!
@@ -50,7 +48,6 @@ end
 			<key>openweathermap.org</key>
 			<dict>
 				<key>NSIncludesSubdomains</key>
-
 				<true/>
 				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
