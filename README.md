@@ -58,4 +58,7 @@ end
 		</dict>
 	</dict>
 ```
-
+## Feel free to contribute 
+- you can introduce new feature
+- resolve bug
+- documentation improvement
